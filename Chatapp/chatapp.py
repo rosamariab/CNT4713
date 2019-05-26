@@ -86,3 +86,8 @@ else:
     #Instance of our  server
     server = Server()
     server.run()
+
+
+# References
+# www.youtube.com/watch?v=Rvfs6Xx3Kww&t=389s
+# www.youtube.com/watch?v=D0SLpD7JvZI&t=451s
